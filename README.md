@@ -1,4 +1,7 @@
-# api documentation for  [paypal-rest-sdk (v1.7.1)](https://github.com/paypal/PayPal-node-SDK)  [![npm package](https://img.shields.io/npm/v/npmdoc-paypal-rest-sdk.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-paypal-rest-sdk) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-paypal-rest-sdk.svg)](https://travis-ci.org/npmdoc/node-npmdoc-paypal-rest-sdk)
+# npmdoc-paypal-rest-sdk
+
+#### basic api documentation for  [paypal-rest-sdk (v1.7.1)](https://github.com/paypal/PayPal-node-SDK)  [![npm package](https://img.shields.io/npm/v/npmdoc-paypal-rest-sdk.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-paypal-rest-sdk) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-paypal-rest-sdk.svg)](https://travis-ci.org/npmdoc/node-npmdoc-paypal-rest-sdk)
+
 #### SDK for PayPal REST APIs
 
 [![NPM](https://nodei.co/npm/paypal-rest-sdk.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/paypal-rest-sdk)
@@ -86,7 +89,8 @@
     "scripts": {
         "test": "grunt"
     },
-    "version": "1.7.1"
+    "version": "1.7.1",
+    "bin": {}
 }
 ```
 
